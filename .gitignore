@@ -1,0 +1,15 @@
+
+lib/x86_64-linux/LazProfiler.compiled
+lib/x86_64-linux/LazProfiler.o
+lib/x86_64-linux/LazProfiler.ppu
+lib/x86_64-linux/LazProfilerAddon.o
+lib/x86_64-linux/LazProfilerAddon.ppu
+lib/x86_64-linux/LazProfilerCore.o
+lib/x86_64-linux/LazProfilerCore.ppu
+lib/x86_64-linux/LazProfilerRunTime.o
+lib/x86_64-linux/LazProfilerRunTime.ppu
+lib/x86_64-linux/LazProfilerWindow.o
+lib/x86_64-linux/vtvObject.ppu
+lib/x86_64-linux/vtvObject.o
+lib/x86_64-linux/LazProfilerWindow.ppu
+lib/x86_64-linux/LazProfilerWindow.lfm
